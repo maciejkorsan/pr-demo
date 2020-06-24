@@ -2,4 +2,6 @@ body {
   background: green;
   color: #fff;
   font-size: large;
+  display: flex;
+  justify-content: center;
 }
