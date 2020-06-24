@@ -1,12 +1,14 @@
 body {
-
   background: green;
   color: #fff;
   font-size: large;
+}
 
- 
+.test {
+  color: hotpink;
+  background-color: khaki;
 }
 
 .fork {
-    color: rgb(206, 113, 206);
+  color: rgb(206, 113, 206);
 }
